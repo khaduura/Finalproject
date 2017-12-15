@@ -1,0 +1,28 @@
+E:\MSE\Semister-1\All Assignment\Agile\FinalExam\LastProject\LastProject\bin\Debug\LastProject.exe.config
+E:\MSE\Semister-1\All Assignment\Agile\FinalExam\LastProject\LastProject\obj\Debug\LastProject.csprojResolveAssemblyReference.cache
+E:\MSE\Semister-1\All Assignment\Agile\FinalExam\LastProject\LastProject\obj\Debug\LastProject.Home.resources
+E:\MSE\Semister-1\All Assignment\Agile\FinalExam\LastProject\LastProject\obj\Debug\LastProject.Properties.Resources.resources
+E:\MSE\Semister-1\All Assignment\Agile\FinalExam\LastProject\LastProject\obj\Debug\LastProject.csproj.GenerateResource.Cache
+E:\MSE\Semister-1\All Assignment\Agile\FinalExam\LastProject\LastProject\bin\Debug\LastProject.exe
+E:\MSE\Semister-1\All Assignment\Agile\FinalExam\LastProject\LastProject\bin\Debug\LastProject.pdb
+E:\MSE\Semister-1\All Assignment\Agile\FinalExam\LastProject\LastProject\obj\Debug\LastProject.exe
+E:\MSE\Semister-1\All Assignment\Agile\FinalExam\LastProject\LastProject\obj\Debug\LastProject.pdb
+E:\MSE\Semister-1\All Assignment\Agile\FinalExam\LastProject\LastProject\obj\Debug\LastProject.Employees.resources
+E:\MSE\Semister-1\All Assignment\Agile\FinalExam\LastProject\LastProject\obj\Debug\LastProject.Transfer.resources
+E:\MSE\Semister-1\All Assignment\Agile\FinalExam\LastProject\LastProject\obj\Debug\LastProject.Promotion.resources
+E:\MSE\Semister-1\All Assignment\Agile\FinalExam\LastProject\LastProject\obj\Debug\LastProject.Achievment.resources
+E:\MSE\Semister-1\All Assignment\Agile\FinalExam\LastProject\LastProject\obj\Debug\LastProject.ChartForm.resources
+C:\Users\khadra\Desktop\final Exam today\LastProject\LastProject\bin\Debug\LastProject.exe.config
+C:\Users\khadra\Desktop\final Exam today\LastProject\LastProject\obj\Debug\LastProject.exe
+C:\Users\khadra\Desktop\final Exam today\LastProject\LastProject\obj\Debug\LastProject.pdb
+C:\Users\khadra\Desktop\final Exam today\LastProject\LastProject\bin\Debug\LastProject.exe
+C:\Users\khadra\Desktop\final Exam today\LastProject\LastProject\bin\Debug\LastProject.pdb
+C:\Users\khadra\Desktop\final Exam today\LastProject\LastProject\obj\Debug\LastProject.csprojResolveAssemblyReference.cache
+C:\Users\khadra\Desktop\final Exam today\LastProject\LastProject\obj\Debug\LastProject.Achievment.resources
+C:\Users\khadra\Desktop\final Exam today\LastProject\LastProject\obj\Debug\LastProject.ChartForm.resources
+C:\Users\khadra\Desktop\final Exam today\LastProject\LastProject\obj\Debug\LastProject.Employees.resources
+C:\Users\khadra\Desktop\final Exam today\LastProject\LastProject\obj\Debug\LastProject.Home.resources
+C:\Users\khadra\Desktop\final Exam today\LastProject\LastProject\obj\Debug\LastProject.Promotion.resources
+C:\Users\khadra\Desktop\final Exam today\LastProject\LastProject\obj\Debug\LastProject.Properties.Resources.resources
+C:\Users\khadra\Desktop\final Exam today\LastProject\LastProject\obj\Debug\LastProject.Transfer.resources
+C:\Users\khadra\Desktop\final Exam today\LastProject\LastProject\obj\Debug\LastProject.csproj.GenerateResource.Cache
